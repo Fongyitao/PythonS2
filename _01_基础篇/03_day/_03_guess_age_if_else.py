@@ -7,7 +7,7 @@ age_of_princal = 56
 guess_age = int(input(">>>"))
 
 if guess_age == age_of_princal:
-    print("yes")
+    print("Yes,you got it ..")
 else:
-    print("no")
+    print("No,it's wrong.")
 

@@ -12,9 +12,10 @@ print(z)
 a = 3 ** x
 print(a)  # 3的x次方
 
-'''
+"""
 多行注释
-'''
+"""
+
 
 name = input("your name:")
 age = input("your age：")  # input接收的都是字符串
