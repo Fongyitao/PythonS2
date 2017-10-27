@@ -1,5 +1,4 @@
 
-
 本节内容
 
 操作系统发展历史
@@ -72,12 +71,7 @@
 
 		vb = 微软的脚本语言，bat脚本
 
-
 		lua = nginx 的脚本语言， ngnix 是时下最nb web服务器
-
-
-
-
 
 
 python初探
@@ -87,16 +81,6 @@ python初探
 	编译型 = 全部翻译，再执行  ，翻译=编译  ，c,c++
 	解释型 = 边执行边翻译， python php java c# perl ruby javascript
 
-
-
-
-
-
-
-
-
-
 	环境安装
 	第一个python程序
-
 
