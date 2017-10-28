@@ -14,3 +14,11 @@ else :
         print("max is %d"%num2)
     else:
         print("max is %d"%num3)
+
+#
+# maxNum=num1
+# list ={num1,num2,num3}
+# for i in list:
+#     if i > maxNum:
+#         maxNum = i
+# print("max is %d"%maxNum)
