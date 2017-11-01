@@ -390,13 +390,6 @@ while num_width<=width:
     num_width +=1
 
 
-
-
-
-
-
-
-
 #print("#",end="")
 #print("#",end="")
 #print("#",end="")
@@ -413,11 +406,6 @@ print()
     print()
 
     # @ == ####
-
-
-
-
-
 
 
 
@@ -478,6 +466,4 @@ while first<=9:
 
 
     first += 1
-
-
 
