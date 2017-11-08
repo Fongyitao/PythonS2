@@ -12,7 +12,7 @@ def method_name():
         print()
 
 
-#method_name()
+# method_name()
 
 i = 1
 while i <= 9:
